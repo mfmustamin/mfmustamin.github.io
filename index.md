@@ -8,4 +8,4 @@ Now working my thesis, conserning general neutirno interactions with nucleus coh
 I finished my bachelor at Hasanuddin University with supervision of Prof.<a href="https://www.scopus.com/authid/detail.uri?authorId=12793289800">Tasrief Surungan</a> with thesis 
 topic electron-proton deep inelastic scattering in the quakr-parton model. While working my bachelor thesis, I did a short course for deepening my research skill with guidence of 
 Dr. <a href="scopus.com/authid/detail.uri?authorId=36337522200">Julio</a>. Other than HEP, others are interest me such as mathematical and computational physics. 
-Have a look at my conducted and ongoing <a href="/works">works.</a> 
+Have a look at my conducted and ongoing <a href="/works">works.</a>
