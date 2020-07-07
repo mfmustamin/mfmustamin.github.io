@@ -2,7 +2,7 @@
 layout: default
 title: Particle Phenomenologist
 ---
-#Selam!
+# Selam!
 I am a master student at <a href="https://www.ktu.edu.tr/en"><em>Karadeniz Technical University</em></a>, majoring High Energy and Plasma Physics. 
 Now working my thesis, conserning general neutirno interactions with nucleus coherently under supervision of <a href="https://www.scopus.com/authid/detail.uri?authorId=55795250300">Mehmet Demirici</a>.
 I finished my bachelor at Hasanuddin University with supervision of Prof.<a href="https://www.scopus.com/authid/detail.uri?authorId=12793289800">Tasrief Surungan</a> with thesis 
