@@ -48,7 +48,7 @@ blockquote:before {
 
 blockquote p {
   display: inline;
-  font-size: 1em;
+  font-size: 0.5em;
 }
 
 footer {
