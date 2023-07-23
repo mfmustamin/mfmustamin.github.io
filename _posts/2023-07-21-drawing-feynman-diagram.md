@@ -20,7 +20,7 @@ The feynMF package generates Feynman diagrams in a pure LATEX environment. Users
 Output diagram follows the format we are interested in. Personally I like to compile the output as a separated document, to be called later as a figure in
 a LATEX document. I recommend a compact documentation in Ref. [2] to generate diagrams you want.
 </p>
-<ul>
-<li>[1] D. Binosi and L. Theussl, 2004. "JaxoDraw: A graphical user interface for drawing Feynman diagrams", Comput.Phys.Commun. 161 (2004) 76-86. </li>
-<li>[2] T. Yamanaka, 2006. "feynMP / feynMF Examples". </li>
-</ul>
+<ol>
+<li>D. Binosi and L. Theussl, 2004. "JaxoDraw: A graphical user interface for drawing Feynman diagrams", Comput.Phys.Commun. 161 (2004) 76-86. </li>
+<li>T. Yamanaka, 2006. "feynMP / feynMF Examples". </li>
+</ol>
