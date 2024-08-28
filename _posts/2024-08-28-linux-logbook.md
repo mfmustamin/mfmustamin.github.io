@@ -35,6 +35,24 @@ For setting all things up: https://jupyter.org/install
 <p>
 However, I my system adopted PEP 668: https://peps.python.org/pep-0668/. I realized that it is already available in the repository. It can be installed by: sudo apt install jupyter-notebook
 </p>
+<p>
+I found that using anaconda environment is much practice. It can be downloaded from: https://www.anaconda.com/download. To install the .sh file, we need to give permission by: chmod +x file_name.sh. The installation is executed by: ./file_name.sh. 
+</p>
+<p>
+The conda environment can be activated by going to its directory and type: conda activate.
+</p>
+<p>
+I run the notebook by going to home directory and execute: jupyter-notebook.
+</p>
+<p>
+If somehow I miss a package, I can install directly in my active kernel the package by:
+<i>import sys</i>
+<i>!conda install --yes --prefix {sys.prefix} numpy</i>
+where here numpy is an example.
+</p>
+<p>
+After performing my activity, I close the environment with: conda deactivate.
+</p>
 <h2> Note: </h2>
 <p>
 This logbook will be updated whenever I install a new package in my system.
