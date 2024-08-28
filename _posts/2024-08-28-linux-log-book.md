@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux loog-book"
+title: "Linux log-book"
 date: 2024-08-28
 ---
 <p>
