@@ -32,3 +32,10 @@ I prefer TexStudio for my editor: sudo apt-get install texstudio
 <p>
 For setting all things up: https://jupyter.org/install
 </p>
+<p>
+However, I my system adopted \href{https://peps.python.org/pep-0668/}{PEP 668}. I realized that it is already available in the repository. It can be installed by: sudo apt install jupyter-notebook
+</p>
+<h2> Note: </h2>
+<p>
+This logbook will be updated whenever I install a new package in my system.
+</p>
