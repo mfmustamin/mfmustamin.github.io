@@ -48,6 +48,7 @@ I run the notebook by going to home directory and execute: jupyter-notebook.
 If somehow I miss a package, I can install directly in my active kernel the package by:
 </p>
 <i>import sys</i>
+
 <i>!conda install --yes --prefix {sys.prefix} numpy</i>
 <p>where here numpy is an example.</p>
 <p>
