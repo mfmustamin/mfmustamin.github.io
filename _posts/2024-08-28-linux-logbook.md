@@ -39,7 +39,7 @@ However, I my system adopted PEP 668: https://peps.python.org/pep-0668/. I reali
 I found that using anaconda environment is much practice. It can be downloaded from: https://www.anaconda.com/download. To install the .sh file, we need to give permission by: chmod +x file_name.sh. The installation is executed by: ./file_name.sh. 
 </p>
 <p>
-The conda environment can be activated by going to its directory and type: conda activate.
+The conda environment can be activated by going to its directory and type: source bin/activate.
 </p>
 <p>
 I run the notebook by going to home directory and execute: jupyter-notebook.
